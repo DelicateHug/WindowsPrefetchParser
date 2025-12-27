@@ -44,7 +44,7 @@ python main.py <path_to_prefetch_file>
 For example, using the included sample file:
 
 ```bash
-python main.py ANKI.EXE-D9F8ABC9.pf
+python main.py AM_DELTA_PATCH_1.443.326.0.EX-8B3BB46B.pf
 ```
 
 The program will output parsed information including:
@@ -61,7 +61,7 @@ The program will output parsed information including:
 - `structs.py` - Data structure definitions and parsing functions
 - `logger.py` - Logging configuration
 - `README.md` - This file
-- `ANKI.EXE-D9F8ABC9.pf` - Sample prefetch file for testing
+- `AM_DELTA_PATCH_1.443.326.0.EX-8B3BB46B.pf` - Sample prefetch file for testing
 
 ## How It Works
 
